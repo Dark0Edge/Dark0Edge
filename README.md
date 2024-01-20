@@ -1,3 +1,4 @@
+💫 About Me:
 - 👋 Hi, I’m @Dark0Edge
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script, JAVA and CSS
