@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark0edge&label=Profile%20views&color=0e75b6&style=flat" alt="dark0edge" /> </p>
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML and CSS till now , in future many more are coming😄**
 
 - 📫 How to reach me **vishalkhokhar57546@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact - **Basketball 🏀 was my love, my passion, my escape. But as studies beckoned, I had to bid farewell to the court. Yet, its memories linger, reminding me of the joy it brought and the lessons it taught**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
